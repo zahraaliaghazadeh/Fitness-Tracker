@@ -1,5 +1,5 @@
-i
-# [Fitness Tracker]()
+
+# [Fitness Tracker](https://fitnesstrackeryalda.herokuapp.com/)
 
 ## A workout tracker application 
 
@@ -50,7 +50,7 @@ In order to install, first download the files. Then you would open terminal and 
 ![sample use](./public/assets/images/gif1.gif)
 
 
-To use this application, you can [click here](). 
+To use this application, you can [click here](https://fitnesstrackeryalda.herokuapp.com/). 
 
 
 ## Credits
