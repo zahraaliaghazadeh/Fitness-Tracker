@@ -1,4 +1,4 @@
-
+i
 # [Fitness Tracker]()
 
 ## A workout tracker application 
@@ -35,6 +35,9 @@ To install :
 * [Visual Code](https://code.visualstudio.com/docs/setup/setup-overview)
 * [NodeJS](https://nodejs.org/en/download/)
 * [Mongodb](https://docs.mongodb.com/manual/installation/)
+For Mac
+* [Homebrew](https://brew.sh/)
+* [XCode](https://developer.apple.com/xcode/)
 
 To use:
 * [Mongoose documents](https://mongoosejs.com/docs/guide.html)
@@ -54,6 +57,7 @@ To use this application, you can [click here]().
 
 
 Initial readme instructions provided by [Triologyed](https://www.trilogyed.com/)
+[Bootstrap](https://getbootstrap.com/)
 
 
 ## Features
@@ -61,6 +65,8 @@ Initial readme instructions provided by [Triologyed](https://www.trilogyed.com/)
 * Feature 1: Easy to navigate design.
 * Feature 2: Ability to add a workout.
 * Feature 3: Ability to add exercises to the workouts.
+* Feature 4: can see the previous workouts and exercises.
+* deployed with heroku.
 
 
 

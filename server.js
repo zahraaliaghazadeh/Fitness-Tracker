@@ -16,6 +16,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
+// if deployed use the deployed database otherwise use the local mongoheadlines database
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/activities", { useNewUrlParser: true });
 
 
