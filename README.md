@@ -50,14 +50,14 @@ In order to install, first download the files. Then you would open terminal and 
 ![sample use](./public/assets/images/gif1.gif)
 
 
-To use this application, you can [click here](https://fitnesstrackeryalda.herokuapp.com/). 
+To use this application, you can [click here](https://fitnesstrackeryalda.herokuapp.com/)
 
 
 ## Credits
 
 
-Initial readme instructions provided by [Triologyed](https://www.trilogyed.com/)
-[Bootstrap](https://getbootstrap.com/)
+Initial readme instructions provided by [Triologyed](https://www.trilogyed.com/) <br>
+Built with [Bootstrap](https://getbootstrap.com/)
 
 
 ## Features
