@@ -34,8 +34,8 @@ With fitness tracker , you can easily add a new workout , then you will be able 
 To install : 
 * [Visual Code](https://code.visualstudio.com/docs/setup/setup-overview)
 * [NodeJS](https://nodejs.org/en/download/)
-* [Mongodb](https://docs.mongodb.com/manual/installation/)
-For Mac
+* [Mongodb](https://docs.mongodb.com/manual/installation/) <br>
+For Mac <br>
 * [Homebrew](https://brew.sh/)
 * [XCode](https://developer.apple.com/xcode/)
 
