@@ -35,6 +35,7 @@ To install :
 * [Visual Code](https://code.visualstudio.com/docs/setup/setup-overview)
 * [NodeJS](https://nodejs.org/en/download/)
 * [Mongodb](https://docs.mongodb.com/manual/installation/) <br>
+* [Robo 3T](https://robomongo.org/download)
 For Mac <br>
 * [Homebrew](https://brew.sh/)
 * [XCode](https://developer.apple.com/xcode/)
@@ -43,7 +44,8 @@ To use:
 * [Mongoose documents](https://mongoosejs.com/docs/guide.html)
 
 
-In order to install, first download the files. Then you would open terminal and type ```npm install``` . This will install all the npm packages listed under the dependencies in the package.json.(MySQL, express, express-handlebars, Node) Then you will open  MySQLworkbench and copy the data in schema.sql file in a SQL file. Once you click on the execute button database table is created for you locally. Then you will open terminal again and type the command ``` node server.js```. This will connect the server. Finally you will type ```localhost:3000``` in the browserwindow and use the application. If you would like to make changes to the application code files , you will have to restart the server after each change. To avoid that, you can install nodemon and use the command ```nodemon``` in the terminal so that it will automatically restart the server for you after each change.
+
+In order to install, first download the files. Then you would open terminal and type ```npm install``` . This will install all the npm packages listed under the dependencies in the package.json. You will have a table created for you locally in Robo 3T.  Then you will open terminal again and type the command ``` node server.js```. This will connect the server. Finally you will type ```localhost:3000``` in the browserwindow and use the application. If you would like to make changes to the application code files , you will have to restart the server after each change. To avoid that, you can install nodemon and use the command ```nodemon``` in the terminal so that it will automatically restart the server for you after each change.
 
 ## Usage 
 
